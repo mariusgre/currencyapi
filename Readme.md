@@ -1,4 +1,4 @@
-# run on locally
+# Run locally
 1. Run without docker:
 
 Windows:
@@ -40,7 +40,7 @@ cd app/tests
 pytest
 ```
 
-# run on docker
+# Run on docker
 
 1. Add your api key in .env file.
 
