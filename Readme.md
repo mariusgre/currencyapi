@@ -1,5 +1,5 @@
 # Run locally
-1. Run without docker:
+1. In terminal:
 
 Windows:
 ```
@@ -27,7 +27,7 @@ cd app
 flask run
 ```
 
-4. Navigate for example to:
+4. Navigate to:
 
 ```
 http://127.0.0.1:5000/quote?baseCurrency=USD&quoteCurrency=GBP&baseAmount=500
